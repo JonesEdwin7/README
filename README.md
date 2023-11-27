@@ -1,15 +1,13 @@
-## Hey 👋, I'm Nitish Kumar  
+## Hey 👋, I'm Jones Edwin  
   
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitish-kumar-b54161219/" target="_blank">
+<a href="https://www.linkedin.com/in/jonesedwint7/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/nistha01" target="_blank">
+<a href="https://github.com/JonesEdwin7/README" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@nitishsuryasuryavanshi" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+ 
   
 
 
@@ -23,19 +21,17 @@ I thrive on challenges and am committed to staying updated with the latest trend
 <br/>  
 
 
-## Rapidfire  
-![Profile views counter](https://komarev.com/ghpvc/?username=nistha01&&style=flat-square)  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently working on **Spring boot, Spring Security**  
   
 
-- 🌱 I’m currently learning Kotlin and Kubernetes
-- 👨‍💻 All of my projects are available at [My gitHub](https://github.com/nistha01)
+- 🌱 I’m currently learning Front End and Full Stack web development.
+- 👨‍💻 All of my projects are available at [My gitHub](https://github.com/JonesEdwin7)
   
 
 - ❓ Ask me about anything related to Java Backend and related technologies
-- 📫 How to reach me **nksuryavanshi108@gmail.com**
+- 📫 How to reach me **jonesedwint7@gmail.com**
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
